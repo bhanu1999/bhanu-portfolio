@@ -12,7 +12,7 @@ const SocialLinks = () => {
                     Linkedin <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/vikasbelida/',
+            href: 'https://www.linkedin.com/in/bhanu-prakash-sakinala/',
             style: 'rounded-tr-md'
         },
         {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/vikasbelida09'
+            href: 'https://github.com/bhanu1999'
         },
         {
             id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:vikasbelida09@gmail.com'
+            href: 'mailto:sakinalabhanu99@gmail.com'
         },
         {
             id: 4,
@@ -40,7 +40,7 @@ const SocialLinks = () => {
                     Leetcode <SiLeetcode size={30} />
                 </>
             ),
-            href: 'https://leetcode.com/vikas_belida_09',
+            href: 'https://leetcode.com/bhanusakinala1999',
         },
         {
             id: 5,
@@ -49,7 +49,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/Belida_Resume.pdf',
+            href: '/BhanuPrakashSakinala-Resume 2023.pdf',
             style: 'rounded-br-md',
             download: true
         }
